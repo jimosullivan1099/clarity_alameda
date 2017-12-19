@@ -1,0 +1,1 @@
+/opt/looker-share/models/clarity_basemodel/import_sources.view.lkml
